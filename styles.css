@@ -1,1 +1,18 @@
 /*  your css code here. If applicable */
+
+body{
+	width:1100px;
+	
+}
+
+.1st_last{
+	width:200;
+}
+
+.middle{
+	width:600;
+}
+
+td{
+	border:1px solid black;
+}
